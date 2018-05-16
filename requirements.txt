@@ -1,0 +1,12 @@
+chardet==3.0.4
+configparser==3.5.0
+Logbook==1.4.0
+mbstrdecoder==0.4.0
+msgfy==0.0.2
+pingparser==0.4
+pyparsing==2.2.0
+python-dateutil==2.7.3
+pytz==2018.4
+six==1.11.0
+subprocrunner==0.14.0
+typepy==0.1.0
